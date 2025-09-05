@@ -1,0 +1,32 @@
+commit 41453b06e1b1974904d455d05a234ea1602328e2
+Author: Tiana Luu <tianaluu09@gmail.com>
+Date:   Thu Sep 4 21:12:46 2025 -0700
+
+    added div in index-flix for conflict
+
+commit babb95081bd791867353f46f77532ef5c1127266
+Author: Tiana Luu <tianaluu09@gmail.com>
+Date:   Thu Sep 4 21:10:47 2025 -0700
+
+    added div for fav food
+
+commit 3e99cf7fa0a3cc80920a87d0d3c6b9df4f8f3806
+Merge: 1d2bfc0 abe8c6d
+Author: tianaluu09 <66967845+tianaluu09@users.noreply.github.com>
+Date:   Thu Sep 4 21:03:56 2025 -0700
+
+    Merge pull request #1 from tianaluu09/info-fill
+    
+    right repo merge
+
+commit abe8c6d43877e6be3c8075670c819f86240ba043
+Author: Tiana Luu <tianaluu09@gmail.com>
+Date:   Thu Sep 4 20:52:49 2025 -0700
+
+    Small change on info-fill for PR
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
